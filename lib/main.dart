@@ -53,7 +53,7 @@ class _SignInDemoState extends State<SignInDemo> {
           ),
           RaisedButton(
             onPressed: _handleSignOut,
-            child: Text('sign out'),
+            child: Text('sign out 11111'),
           )
         ],
       );
